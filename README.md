@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **vivek.network9525@gmsil.com**
+- 📫 How to reach me **vivek.network9525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
